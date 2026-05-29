@@ -29,16 +29,4 @@
 - **Ask Your Data** — Query your datasets in natural language using LLaMA 3  
 - Export **KPI summaries** and **processed datasets** as CSV  
 
-## Advantages
 
-- Easy-to-use, no coding required for users  
-- Combines BI with ML for **predictive and anomaly insights**  
-- Real-time, interactive, and customizable  
-- Suitable for **e-commerce, retail, and business analytics**  
-
-## Industry Applications
-
-- Retail & E-commerce sales monitoring  
-- Inventory performance tracking  
-- Fraud or unusual pattern detection  
-- Automated business reporting  
